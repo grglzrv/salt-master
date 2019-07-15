@@ -1,0 +1,18 @@
+version: "2"
+
+services:
+
+  master:
+    image: salt-master:latest
+    container_name: salt_master
+    hostname: salt_master.local
+    ports:
+      - "4505:4505"
+      - "4506:4506"
+    volumes:
+      - ./files/master/etc/salt:/etc/salt
+      - ./files/master/var/cache/salt:/var/cache/salt
+      - ./files/master/var/log/salt:/var/log/salt
+      - ./files/master/srv:/srv
+    privileged: true
+    command: salt-master -l debug

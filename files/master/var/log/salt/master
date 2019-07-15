@@ -1,0 +1,9 @@
+2019-07-15 20:19:47,151 [salt.utils.verify:535 ][WARNING ][1] Insecure logging configuration detected! Sensitive data may be logged.
+2019-07-15 20:20:26,764 [salt.utils.parsers:1062][WARNING ][1] Master received a SIGTERM. Exiting.
+2019-07-15 20:20:40,924 [salt.utils.verify:535 ][WARNING ][1] Insecure logging configuration detected! Sensitive data may be logged.
+2019-07-15 20:20:51,865 [salt.utils.parsers:1062][WARNING ][1] Master received a SIGTERM. Exiting.
+2019-07-15 20:22:25,217 [salt.utils.verify:535 ][WARNING ][1] Insecure logging configuration detected! Sensitive data may be logged.
+2019-07-15 20:23:25,956 [salt.utils.parsers:1062][WARNING ][1] Master received a SIGTERM. Exiting.
+2019-07-15 20:35:19,711 [salt.utils.verify:535 ][WARNING ][1] Insecure logging configuration detected! Sensitive data may be logged.
+2019-07-15 20:36:22,724 [salt.utils.parsers:1062][WARNING ][1] Master received a SIGTERM. Exiting.
+2019-07-15 20:36:31,891 [salt.utils.verify:535 ][WARNING ][1] Insecure logging configuration detected! Sensitive data may be logged.
