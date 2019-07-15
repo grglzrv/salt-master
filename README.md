@@ -8,4 +8,5 @@ docker-compose up -d
 docker ps -a
 ### Check salt process inside the container
 docker exec -it salt_master bash
+
 ps -ef | grep salt
