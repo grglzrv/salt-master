@@ -1,5 +1,5 @@
 # salt-master
-#Instructions:
+## Instructions:
 ### Build docker image from CentOS 7
 docker build -t salt-master .
 ### Run salt-master container via docker-compose
